@@ -27,29 +27,29 @@ This is a Java-based Cargo Management System designed to manage cargo, users, de
 │   ├── misc.xml  
 │   ├── modules.xml  
 │   └── workspace.xml  
-├── Cargo management system.iml
-├── data/
-│   ├── cargo.txt
-│   ├── delivery.txt
-│   ├── inventory.txt
-│   ├── luggage_insurance.txt
-│   ├── ships.txt
-│   ├── tracking.txt
-│   └── users.txt
-├── src/
-    ├── Admin.java
-    ├── Cargo.java
-    ├── Customer.java
-    ├── Delivery.java
-    ├── Inventory.java
-    ├── LuggageInsurance.java
-    ├── Main.java
-    ├── sessionManager.java
-    ├── Ship.java
-    ├── Staff.java
-    ├── Tracking.java
-    └── User.java
-└── README.md
+├── Cargo management system.iml  
+├── data/  
+│   ├── cargo.txt  
+│   ├── delivery.txt  
+│   ├── inventory.txt  
+│   ├── luggage_insurance.txt  
+│   ├── ships.txt  
+│   ├── tracking.txt  
+│   └── users.txt  
+├── src/  
+|   ├── Admin.java  
+|   ├── Cargo.java  
+|   ├── Customer.java  
+|   ├── Delivery.java  
+|   ├── Inventory.java  
+|   ├── LuggageInsurance.java  
+|   ├── Main.java  
+|   ├── sessionManager.java  
+|   ├── Ship.java  
+|   ├── Staff.java  
+|   ├── Tracking.java  
+|   └── User.java  
+└── README.md  
  
 ## Getting Started
 

@@ -1,0 +1,5 @@
+user,B4567Z,Barood,900,Islamabad,Shipped
+user,T6789Ab,Plastic,200,Lahore,Shipped
+user,G134Oi,Steel,600,Karachi,Shipped
+
+user,FG5621,Wood,298,USA,Shipped

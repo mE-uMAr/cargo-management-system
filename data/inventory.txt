@@ -1,0 +1,3 @@
+SDF567j,Plastic,456,warehouse
+567GHUi,Barood,199,warehouse
+Fg67809,Steel,700,warehouse

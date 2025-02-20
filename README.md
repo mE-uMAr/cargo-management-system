@@ -21,12 +21,12 @@ This is a Java-based Cargo Management System designed to manage cargo, users, de
 
 ## Project Structure
 
-├── .gitignore
-├── .idea/
-│   ├── .gitignore
-│   ├── misc.xml
-│   ├── modules.xml
-│   └── workspace.xml
+├── .gitignore  
+├── .idea/  
+│   ├── .gitignore  
+│   ├── misc.xml  
+│   ├── modules.xml  
+│   └── workspace.xml  
 ├── Cargo management system.iml
 ├── data/
 │   ├── cargo.txt

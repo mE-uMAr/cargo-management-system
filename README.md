@@ -61,7 +61,9 @@ This is a Java-based Cargo Management System designed to manage cargo, users, de
 ### Running the Application
 
 1. Clone the repository:
-   ```sh git clone https://github.com/mE-uMAr/cargo-management-system.git
+   ```sh
+   git clone https://github.com/mE-uMAr/cargo-management-system.git
+   ```
 
 2. Navigate to the project directory:
     cd cargo-management-system3. Compile the Java files:
@@ -102,26 +104,3 @@ For any inquiries or issues, please contact:
 - Name: Mehar
 - Email: me.umar0027@gmail.com
 - GitHub: [mE-uMAr](https://github.com/mE-uMAr)
-
-## Contributing
-
-1. Fork the repository.
-2. Create your feature branch:
-     ```sh
-     git checkout -b feature/YourFeature
-     ```
-3. Commit your changes:
-     ```sh
-    git commit -m 'Add some feature'
-     ```
-4. Push to the branch:
-    ```sh
-    git push origin feature/YourFeature
-    ```
-5. Open a pull request.
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc.
